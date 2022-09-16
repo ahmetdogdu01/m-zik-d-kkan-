@@ -7,6 +7,7 @@
 - Çalışmada Google font kullanılmıştır.
 - Sayfalar Flex ve Grid elementleri kullanılarak bölümlendirilmiştir.
 - Tarayıcı boyutuna uygun olarak esnek bir sayfa yapısı oluşturulmaya çalışılmıştır.
+- Link ile yönlendirilen yan sayfalar henüz tamamlanmamıştır.
 
 # Sayfa Tasarımı
 ![img](/img/gif.gif)
